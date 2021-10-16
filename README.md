@@ -7,7 +7,7 @@ ___
 ## Introduction
 Data is food for AI, and there is vast potential for model performance improvement by shifting from a model-centric to a data-centric approach. That is the motivation behind the recent Data-Centric AI Competition organized by Andrew Ng and DeepLearning.AI.
 
-In this repo, I unveil the methods (and codes) of my **Top 5%** ranked submission (**~84% accuracy**), along with data-centric techniques that succeeded and failed. Do check out the Medium article for a more in-depth look at my thought process and methods behind the submission.
+In this repo, I unveil the methods (and codes) of my **Top 5%** ranked submission (**~84% accuracy**), including the various techniques that worked and did not work for me. Do check out the Medium article for a more in-depth look at my thought process and methods behind the submission.
 
 ___
 ## About the Competition
