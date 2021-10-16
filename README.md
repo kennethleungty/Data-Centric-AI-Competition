@@ -1,11 +1,10 @@
 # Techniques of a Top 5% Finish in the Data-Centric AI Competition 2021
 ### Sharing the techniques that worked (and did not work) in the competition organized by Andrew Ng & DeepLearning.AI
 
-___
-## Introduction
-
 Link to Medium writeup: *Coming Soon!*
 
+___
+## Introduction
 Data is food for AI, and there is vast potential for model performance improvement by shifting from a model-centric to a data-centric approach. That is the motivation behind the recent Data-Centric AI Competition organized by Andrew Ng and DeepLearning.AI.
 
 In this repo, I unveil the methods (and codes) of my Top 5% ranked submission (~84% accuracy), along with data-centric techniques that succeeded and failed
