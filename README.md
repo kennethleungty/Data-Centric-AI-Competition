@@ -11,7 +11,7 @@ In this repo, I unveil the methods (and codes) of my Top 5% ranked submission (~
 
 ___
 ## About the Competition
-- Link to competition page:
+- Link to competition page: https://https-deeplearning-ai.github.io/data-centric-comp/
 - A collaboration between DeepLearning.AI and Landing AI, the Data-Centric AI Competition aims to elevate data-centric approaches to improving the performance of machine learning models.
 - In most machine learning competitions, you are asked to build a high-performance model given a fixed dataset. 
 - However, machine learning has matured to the point that high-performance model architectures are widely available, while approaches to engineering datasets have lagged. 
