@@ -19,6 +19,6 @@ ___
 
 ___
 ## Contents
-- Full_Notebook_Best_Submission.ipynb (Complete codes for the best submission I submitted for the competition)
-- experiment_tracker.csv (Spreadsheet tracker I used to monitor my various experiments)
-- /data (Public Roman MNIST dataset released by the competition)
+- *Full_Notebook_Best_Submission.ipynb* (Complete walkthrough codes for the best submission I submitted for the competition)
+- *experiment_tracker.csv* (Spreadsheet tracker I used to monitor my various experiments)
+- */data* (Public Roman MNIST dataset released by the competition)
