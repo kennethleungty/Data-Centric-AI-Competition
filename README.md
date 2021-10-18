@@ -1,7 +1,7 @@
-# Data-Centric AI Competition 2021 - Techniques of a Top 5% Submission
+# Data-Centric AI Competition 2021 - Tips and Tricks of a Top 5% Submission
 ### Sharing the techniques that worked (and did not work) in the competition organized by Andrew Ng & DeepLearning.AI
 
-Link to Medium writeup: *Coming Soon!*
+Link to Medium writeup: https://towardsdatascience.com/data-centric-ai-competition-tips-and-tricks-of-a-top-5-finish-9cacc254626e
 
 ___
 ## Introduction
